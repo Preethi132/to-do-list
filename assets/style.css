@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    background-color: #282828;
+    background-color: darkgrey;
+}
+H2 {
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+    background-color :#404040 ;
+    text-align: center;
+    font-style: BOLD; 
+    /* font-weight: <weight>;
+    */ }
+.DAPPA1 {
+    position: absolute;
+    background-color :#404040 ;
+    width: 1000px;
+    height : 1000px;
+    border-radius: 45PX;
+    border: 2px solid rgb(137, 137, 137);
+    padding: 4px;
+    align-items: flex-start;
+    margin: 5px 10px 10px 200px;
+}
+FORM{
+    background-color :#404040 ;
+    font-family: "Ojuju", sans-serif;
+    font-optical-sizing: auto;
+}
